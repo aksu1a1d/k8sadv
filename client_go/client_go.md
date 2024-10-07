@@ -1,6 +1,4 @@
-sample client example, [ref](https://github.com/kubernetes/client-go/blob/master/examples/out-of-cluster-client-configuration/main.go) 
-
-package details, clientcmd for example, [ref](https://pkg.go.dev/k8s.io/client-go/tools/clientcmd#BuildConfigFromFlags)
+sample client code, [ref](https://github.com/kubernetes/client-go/blob/master/examples/out-of-cluster-client-configuration/main.go)  // package [ref](https://pkg.go.dev/k8s.io/client-go/tools/clientcmd#BuildConfigFromFlags), clientcmd for example (not standard library but need to be imported from k8s.io/client-go/tools)
 
 ```go
 package main
