@@ -1,6 +1,6 @@
 sample controller code, [ref](https://github.com/kubernetes/client-go/blob/master/examples/workqueue/main.go)  // syncToStdout is the business logic to simply prints information about the pod to stdout
 
-```
+```go
 package main
 
 import (
