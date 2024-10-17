@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"k8simg/mtable"
+	"rscls/mtable"
 
 	"github.com/spf13/cobra"
 	kv1 "k8s.io/api/apps/v1"
